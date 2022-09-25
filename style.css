@@ -1,0 +1,35 @@
+.main {
+  border: 1px solid beige;
+  
+  height: 450px;
+  width: 90%;
+  
+  background-color: beige;
+  flex-direction: column;
+  justify-content: space-between;
+  
+}
+.one {
+
+    border: 1px solid cornflowerblue;
+    height: 50px;
+    padding: 6px;
+    margin: 20px;
+    background-color: cornflowerblue;
+    
+}
+.first {
+    width: 25%;
+}
+.second {
+    width: 33%;
+}
+.third {
+    width: 50%;
+}
+.fourth {
+    width: 12%;
+}
+.fifth {
+    width: 18%;
+}
