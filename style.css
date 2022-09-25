@@ -3,7 +3,7 @@
   
   height: 450px;
   width: 90%;
-  
+  display: flex;
   background-color: beige;
   flex-direction: column;
   justify-content: space-between;
